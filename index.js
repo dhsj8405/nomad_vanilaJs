@@ -191,10 +191,10 @@ function handleClick(){
   // function handleClick(){
   //   const hasClass = title.classList.contains(CLICKED_CLASS);
   //   if(!hasClass){
-  //     title.classList.add(CLICKED_CLASS);
+  //     title.classList.add(CLICKED_CLASS);    //classList.add : 클래스를 필요에 따라 삽입
   //   }
   //   else {
-  //     title.classList.remove(CLICKED_CLASS);
+  //     title.classList.remove(CLICKED_CLASS);   //classList.remove : 클래스를 필요에 따라 제거
   //   }
   // }
 function init(){
